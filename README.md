@@ -1,6 +1,5 @@
 # Churn-Prediction-for-highly-Imbalanced-Dataset
 
- ## Video of execution of code https://drive.google.com/file/d/18C-OGXD71yoVOxZVy-q_RcY7DVdC7tNd/view?usp=share_link 
  
 The project uses a ADASYN and Weighted Random Forest to handle class imbalance
 
